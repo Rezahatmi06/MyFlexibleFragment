@@ -18,4 +18,5 @@
     <string name="david_moyes">David Moyes</string>
     <string name="choose">Pilih</string>
     <string name="close">Tutup</string>
+    <item name="btn_category" type="id" />
 </resources>
